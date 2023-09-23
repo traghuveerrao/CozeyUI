@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef } from 'react';
 import tables from '../Tables.json';
 import './Table.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import '../fonts.css';
 
 
 function Table() {

@@ -1,0 +1,31 @@
+/* fonts.css */
+
+@font-face {
+    font-family: 'CamptonSemiBold';
+    src: url('./Fonts/Campton/Campton-SemiBold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Larsseit';
+    src: url('./Fonts/Larsseit/Larsseit.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Larsseit Bold';
+    src: url('./Fonts/Larsseit/Larsseit-Bold.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Larsseit Medium';
+    src: url('./Fonts/Larsseit/Larsseit-Medium.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Quincy Regular';
+    src: url('./Fonts/Quincy/quincycf-regular.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'QuincyCFBold'; /* Corrected font family name */
+    src: url('./Fonts/QuincyCF/QuincyCF-Bold.otf') format('opentype');
+}

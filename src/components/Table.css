@@ -1,0 +1,557 @@
+.html{
+    overflow-x: hidden;
+}
+.heading {
+    padding: 20px 100px;
+}
+
+.heading .headingBox {
+    display: flex;
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 870px) {
+    .heading {
+        padding: 0 50px;
+    }
+    .navigationBar {
+        padding: 10px 50px;
+    }
+}
+    
+
+.heading .headingBoxContainer {
+    display: flex;
+    flex-direction: column;
+}
+.heading h1 {
+    margin: 0px;
+    font-size: 60px;
+    font-family: 'QuincyCFBold';
+    color: rgb(43, 44, 110);
+    text-align: left;
+}
+.heading p {
+    font-family: "Larsseit Medium";
+    color: rgb(25, 20, 43);
+    font-size: 20px;
+}
+.navigation {
+    position: sticky;
+    top: 0px;
+    z-index: 9999;
+}
+.navigationHeader {
+    background-color: rgb(25, 20, 43);
+    position: sticky;
+    top: 0px;
+    z-index: 997;
+    display: flex;
+    -webkit-box-pack: start;
+    justify-content: flex-start;
+    -webkit-box-align: center;
+    align-items: center;
+    /* height: 60px; */
+}
+.navigationLinks {
+    padding-top: 5px;
+}
+.tableNavigationLinks {
+    display: inline-block;
+    color: rgb(212, 218, 231);
+    font-family: 'Larsseit';
+    font-size: 18px;
+    line-height: 18px;
+    cursor: pointer;
+}
+.navigation a:not(:last-of-type) {
+    margin-right: 48px;
+}
+
+.navigation a.active {
+    padding-bottom: 14px;
+    border-bottom: 4px solid rgb(255, 255, 255);
+}
+.navigation a {
+    text-decoration: none;
+}
+@media (min-width: 1441px){
+    .navigationHeader {
+        padding: 10px 0px;
+    }
+    .links {
+        margin-right: auto;
+        padding: 0px 80px;
+    }
+}
+
+@media (max-width: 1440px) {
+    .links {
+        width: 1440px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px 80px 0px 0px;
+    }
+    
+    .navigationHeader {
+        padding: 10px 0px;
+    }
+}
+@media (max-width: 1250px) {
+    .navigation a:not(:last-of-type) {
+        margin-right: 32px;
+    }
+}
+
+.tableTypeContainer {
+    margin: 0px auto;
+    max-width: 1440px;
+    padding: 45px 80px 0px;
+}
+.tableType {
+    font-family: "Quincy Regular";
+    font-weight: 700;
+    font-size: 48px;
+    color: rgb(43, 44, 110);
+    text-align: left;
+}
+@media (max-width: 1280px) {
+    .tableType {
+        font-size: 32px;
+        text-align: center;
+    }
+    /* .heading {
+        padding: 16px 80px;
+    } */
+    .heading p {
+        line-height: 26px;
+        font-size: 18px;
+    }
+}
+
+.cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 40px;
+    margin: 0px auto;
+    max-width: 1440px;
+    padding: 16px 80px;
+}
+
+.variants {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    gap: 12px;
+}
+
+.imageCard {
+    display: flex;
+    justify-content: center;
+    object-fit: contain;
+    height: 100%;
+    border-radius: 10px;
+    background-color: #f6f6f6;
+}
+.imageCard img {
+    /* border: 2px solid yellow; */
+    max-height: 100%;
+    max-width: 100%;
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+.imgs {
+    height: 50%;
+    width: 50%;
+}
+
+.cardDescription {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 4px;
+    max-width: 400px;
+}
+.cardDescription p {
+    display: block;
+    /* width: 400px; */
+    font-size: 16px;
+    line-height: 19px;
+    font-family: 'CamptonSemiBold';
+    color: rgb(43, 44, 110);
+    text-align: left;
+}
+.price {
+    height: 18px;
+    display: flex;
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 8px;
+}
+.price .pricing {
+    font-family: 'Larsseit';
+    font-size: 14px;
+    line-height: 17.56px;
+    color: rgb(83, 84, 138);
+    white-space: nowrap;
+}
+.price .verticalBar {
+    font-family: 'Larsseit';
+    font-size: 14px;
+    line-height: 17.56px;
+    color: rgb(83, 84, 138);
+}
+.price .description {
+    position: relative;
+    font-family: "Larsseit Bold";
+    font-size: 14px;
+    line-height: 13.96px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    top: 0px;
+    cursor: pointer;
+    color: rgb(25, 20, 43);
+}
+
+.arrowCard {
+    height: 20px;
+    width: 24px;
+    position: relative;
+    top: 2px;
+    right: -4px;
+}
+.arrowCard arrow {
+    user-select: none;
+    width: 1em;
+    height: 1em;
+    display: inline-block;
+    fill: currentcolor;
+    flex-shrink: 0;
+    transition: fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font-size: 16px;
+}
+
+@media (max-width: 870px) {
+    .navigationHeader {
+        padding: 10px 0px;
+    }
+}
+@media (max-width: 1024px) {
+    .navigationHeader {
+        top: calc(40px);
+    }
+}
+/* @media (max-width: 1024px)
+{
+    .navigationLinks > div {
+        display: flex;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+        -webkit-box-align: center;
+        align-items: center;
+        width: 100%;
+    }
+    
+} */
+@media (max-width: 870px) {
+    .links {
+        display: flex;
+        padding: 0px 0px 0px 20px;
+        width: 100%;
+        -webkit-box-pack: justify;
+        justify-content: space-between;
+    }
+}
+  
+.cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    position: relative;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    justify-content: center;
+    gap: 40px;
+    margin: 0px auto;
+    max-width: 1440px;
+    padding: 16px 80px;
+}
+
+.navigationBar {
+    width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 80px;
+    text-align: left;
+}
+@media (max-width: 1024px) {
+.navigationBar {
+    display: flex;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    -webkit-box-align: center;
+    align-items: center;
+    width: 100%;
+    padding: 0 50px;
+}
+}
+
+@media (max-width: 770px) {  
+.cardHolder {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px 0px;
+}
+}
+
+@media (max-width: 1024px) {
+    .cardHolder {
+        justify-items: center;
+        gap: 40px;
+        padding: 16px 24px;
+    }
+    .variants {
+        /* width: 250px; */
+        height: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .variants {
+        width: 200px;
+        padding-left: 0px;
+        padding-right: 0px;
+        padding-bottom: 0px;
+        height: auto;
+        gap: 6px;
+    }
+    .heading .headingBox {
+        padding: 0;
+    }
+}
+
+@media screen and (max-width: 608px) {
+    .variants {
+        max-width: 210px;
+    }
+}
+
+@media (max-width: 425px) {   
+.cardHolder {
+    column-gap: 16px;
+}
+.variants {
+    max-width: 140px;
+}
+.cardDescription p {
+    font-size: 12px;
+}
+.cardDescription .variantTitle {
+    max-width: 150px;
+    text-align: left;
+}
+.price {
+    gap: 1.5px;
+    height: 10px;
+}
+.price .pricing {
+    font-size: 12px;
+}
+.price .description {
+    font-size: 12px;
+}
+.arrowCard {
+    width: 12px;
+    right: 0;
+}
+}
+@media (max-width: 1024px) {
+    .variants {
+        width: 250px;
+        height: 100%;
+    }
+    .cardDescription .variantTitle {
+        max-width: 250px;
+    }
+}
+@media (max-width: 320px) {
+    .cardHolder {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        justify-items: center;
+        gap: 10px;
+        padding: 16px 24px;
+    }
+    .variants {
+        max-width: 130px;
+    }
+    .cardDescription p {
+        font-size: 10px;
+    }
+    .cardDescription .variantTitle {
+        max-width: 140px;
+    }
+    .price {
+        gap: 1px;
+        height: 8px;
+    }
+    .price .pricing {
+        font-size: 10px;
+    }
+    .price .description {
+        font-size: 10px;
+    }
+    .arrowCard {
+        width: 10px;
+        right: 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .navigationBar {
+        display: none;
+    }
+}
+
+.dropdown button {
+    background: transparent;
+    border: none;
+}
+.btn:hover {
+    background-color: none;;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    /* border: 2px solid red; */
+    width: 100%;
+    text-align: left;
+}
+
+@media screen and (min-width: 768px) {
+    .dropdown {
+        display: none;
+    }
+}
+
+.dropbtn {
+    background-color: #3498db;
+    color: white;
+    padding: 0px 20px 0px 80px;
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    text-align: left;
+    width: 100%;
+}
+@media screen and (min-width: 768px) {
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 100vw;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    width: 100%;
+    background-color: rgb(25, 20, 43);
+}
+
+.dropdown-content a {
+    color: rgb(212, 218, 231);
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    padding-bottom: 40px;
+    padding-left: 32px;
+    font-size: 18px;
+}
+
+.caret {
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    display: inline-block;
+    vertical-align: middle;
+    content: '';
+    transform: scale(2);
+    margin-left: 70%;
+  }
+  @media screen and (max-width: 499px) {
+    .caret {
+        margin-left: 60%;
+    }
+  }
+  @media screen and (max-width: 399px) {
+    .caret {
+        margin-left: 50%;
+    }
+  }
+  @media screen and (max-width: 290px) {
+    .caret {
+        margin-left: 30%;
+    }
+  }
+  .caret-up {
+    border-bottom: 5px solid white;
+    transform: rotate(180deg);
+    transform: scale(2);
+  }
+  
+  .caret-down {
+    border-top: 5px solid white;
+    transform: scale(2);
+  }
+  
+
+.dropdown-content a:hover {
+    background-color: none;
+    color: rgb(212, 218, 231);
+}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.sticky-navbar {
+    position: sticky;
+    top: 0;
+    background-color: white;
+    z-index: 100;
+    border-bottom: 1px solid #ddd;
+}
+
+
+/* @media screen and (max-width: 678px) {
+    .dropbtn {
+        padding-left: 50px ;
+    }
+    .heading {
+        padding-left: 50px;
+    }
+} */
+
+@media screen and (max-width: 678px) {
+    .dropbtn {
+        padding-left: 30px ;
+    }
+    .heading {
+        padding-left: 30px;
+    }
+}
