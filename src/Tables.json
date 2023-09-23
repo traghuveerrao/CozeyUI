@@ -1,0 +1,318 @@
+{
+    "title": "Tables",
+    "description": "A perfect pairing to your sofa",
+    "type": [
+        {
+            "id": "1",
+            "title": "Coffee Tables",
+            "variants": [
+                {
+                    "id": "1",
+                    "title": "Stella Coffee Table - 1 Unit",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F3ZxKTRcD5h8xNQ1WbQ2o6q%2F5bf9f5d319bd80cb724c4727e1a79ae9%2Ftinywow_1_28381075.webp%3Ffm%&w=1200&q=100",
+                    "price": "$210 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "2",
+                    "title": "Stella Coffee Table - 2 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F2dGDkknzuEyYJjov3lmxFM%2F2cd22de301de7407ff81eed07a15ff2d%2Ftinywow_2_28381081.webp%3Ffm%&w=1200&q=100",
+                    "price": "$420 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "3",
+                    "title": "Pluto Coffee Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F6AxbFw2DTXZfrTwnbX2XZs%2F90cf3b85b3e4ae71147710328326b902%2Ftinywow_3_28381089.webp%3Ffm%&w=1200&q=100",
+                    "price": "$135 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "4",
+                    "title": "Stella Coffee Table - 3 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F2x5RfjQLdOc73i33yPuxWF%2F845193dd4d9212aefdebd520975d947e%2Ftinywow_4_28381113.webp%3Ffm%&w=1200&q=100",
+                    "price": "$630 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "5",
+                    "title": "Pluto Coffee Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2FjwTdU6AJn8GMh6QweRzs5%2Ff2ca4f7087e2070f53930a1dccb95065%2Ftinywow_5_28381124.webp%3Ffm%&w=1200&q=100",
+                    "price": "$135 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "6",
+                    "title": "Stella Coffee Table - 1 Unit",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20LIFT-TOP%201%20CLOSED%20CONFIG%201%2Fframes%2F1%2FSTELLA%20LIFT-TOP%201%20CLOSED%20CONFIG%201.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=1200&q=100",
+                    "price": "$210 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "7",
+                    "title": "Stella Coffee Table - 2 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F6GIUmNMDMjEh218wbesVun%2F07a54358b5601fec1360ddf2e8e163b1%2Ftinywow_6_28381143.webp%3Ffm%&w=1200&q=100",
+                    "price": "$420 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "8",
+                    "title": "Stella Coffee Table - 3 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20LIFT-TOP%203%20CLOSED%20CONFIG%203%2Fframes%2F1%2FSTELLA%20LIFT-TOP%203%20CLOSED%20CONFIG%203.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=1200&q=100",
+                    "price": "$630 or financing",
+                    "Customize": "Customize"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Side Tables",
+            "variants": [
+                {
+                    "id": "1",
+                    "title": "Solis Adjustable Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F1tWWVb82AZAL2urHXmmpYf%2F6918c2521e2a73803f9b0c75daa356ff%2Ftinywow_7_28381247.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$180 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "2",
+                    "title": "Solis Adjustable Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F3YbNin63OJD3o8OycKDMGj%2Fb217d294cf510da4acbced69d7deb1e7%2Ftinywow_8_28381358.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$180 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "3",
+                    "title": "Solis Adjustable Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F3ZCnJC62kjnBZ4lzI730Kj%2F316d53b38eeafddd95f901c08940193f%2Ftinywow_9_28381369.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$180 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "4",
+                    "title": "Stella Coffee Table - 1 Unit",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20LIFT-TOP%201%20CLOSED%20CONFIG%201%2Fframes%2F1%2FSTELLA%20LIFT-TOP%201%20CLOSED%20CONFIG%201.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$210 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "5",
+                    "title": "Stella Coffee Table - 1 Unit",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F3ZxKTRcD5h8xNQ1WbQ2o6q%2F5bf9f5d319bd80cb724c4727e1a79ae9%2Ftinywow_1_28381075.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$210 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "6",
+                    "title": "Pluto Side Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F5MPnOK3FFpXDAhK7sON1WH%2Fab05a85da8d121d7f6ff96c114810592%2Ftinywow_10_28381395.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$85 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "7",
+                    "title": "Pluto Side Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F2lnRAI54DdRJtwAcnzQ0tk%2Ff815bd759a2fddaeb5ce2eff0f3c89e9%2Ftinywow_11_28381418.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$85 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "8",
+                    "title": "Stella Media Unit - 1 Unit | No Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%201%20HOLE%2Fframes%2F1%2FSTELLA%20TV%201%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$145 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "9",
+                    "title": "Stella Media Unit - 1 Unit | No Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%201%20HOLE%2Fframes%2F1%2FSTELLA%20TV%201%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$145 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "10",
+                    "title": "Stella Media Unit - 1 Unit | With Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%201%20DOOR%2Fframes%2F1%2FSTELLA%20TV%201%20DOOR.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$165 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "11",
+                    "title": "Stella Media Unit - 1 Unit | With Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F32BXXKxXoNtmPEVo7uWKQL%2F0d34707c5cade59f8180c52a429a5510%2Ftinywow_12_28381421.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$165 or financing",
+                    "Customize": "Customize"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Media Units",
+            "variants": [
+                {
+                    "id": "1",
+                    "title": "Stella Media Units - 3 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F332f11EuGw1gWeBhK4r9a2%2F0c4a6a2823eaaa68f7373d136a636295%2Ftinywow_13_28381505.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$475 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "2",
+                    "title": "Stella Media Units - 2 Units | With Doors",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F3pDzIptJx952jUN06A4xf2%2F0a6345fda7b53ec92f87d06ffb61cfe4%2Ftinywow_14_28381511.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$330 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "3",
+                    "title": "Stella Media Units - 1 Unit | With Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F32BXXKxXoNtmPEVo7uWKQL%2F0d34707c5cade59f8180c52a429a5510%2Ftinywow_12_28381421.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$165 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "4",
+                    "title": "Stella Media Units - 1 Unit | No Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%201%20HOLE%2Fframes%2F1%2FSTELLA%20TV%201%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$145 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "5",
+                    "title": "Stella Media Units - 2 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%202%20HOLE-DOOR%2Fframes%2F1%2FSTELLA%20TV%202%20HOLE-DOOR.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$310 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "6",
+                    "title": "Stella Media Units - 2 Units | No Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%202%20HOLE%2Fframes%2F1%2FSTELLA%20TV%202%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$290 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "7",
+                    "title": "Stella Media Units - 3 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F5HFfvai7nj2S0O6N1PpyPL%2Fcd9bd2a261cf0f6ddaab79afeeeeec5a%2Ftinywow_15_28381520.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$475 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "8",
+                    "title": "Stella Media Units - 3 Units | No Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%203%20HOLE%2Fframes%2F1%2FSTELLA%20TV%203%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$435 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "9",
+                    "title": "Stella Media Units - 4 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F48Y2j3OYp7US5ZGk34vJDi%2Fce302beec910571893b94905eef91746%2Ftinywow_16_28381530.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$620 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "10",
+                    "title": "Stella Media Units - 4 Units | No Doors",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%204%20HOLE%2Fframes%2F1%2FSTELLA%20TV%204%20HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$580 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "11",
+                    "title": "Stella Media Units - 2 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%202%20DOOR-HOLE%2Fframes%2F1%2FSTELLA%20TV%202%20DOOR-HOLE.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$310 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "12",
+                    "title": "Stella Media Units - 4 Units",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%204%20DOOR-HOLE-HOLE-DOOR%2Fframes%2F1%2FSTELLA%20TV%204%20DOOR-HOLE-HOLE-DOOR.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$620 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "13",
+                    "title": "Stella Media Units - 3 Units | With Doors",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%203%20DOOR%2Fframes%2F1%2FSTELLA%20TV%203%20DOOR.webp%3Ffeature%3DTABLE%20FINISH%3AWALNUT%26size%3D512&w=2048&q=100",
+                    "price": "$495 or financing",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "14",
+                    "title": "Stella Media Units - 4 Units | With Door",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fcontent.cylindo.com%2Fapi%2Fv2%2F5035%2Fproducts%2FSTELLA%20TV%204%20DOOR%2Fframes%2F1%2FSTELLA%20TV%204%20DOOR.webp%3Ffeature%3DTABLE%20FINISH%3AWOODEN%20TABLE%20TOP%26size%3D512&w=2048&q=100",
+                    "price": "$660 or financing",
+                    "Customize": "Customize"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Table Sets",
+            "variants": [
+                {
+                    "id": "1",
+                    "title": "Pluto Table Set | 1 Coffee Table & 1 Side Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F6gdI0rk3xtemATtpH1tqu4%2F42f1392f8777c20d2415fac3e506e188%2Ftinywow_17_28385269.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$195",
+                    "discount": "Save 10%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "2",
+                    "title": "Pluto Table Set | 1 Coffee Table & 2 Side Tables",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2Ft07UEmFihKSmIgb77WlJs%2Ff0fd798110cf62721f49e2dc7ffb36be%2Ftinywow_18_28385277.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$255",
+                    "discount": "Save 15%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "3",
+                    "title": "Pair of Solis Adjustable Tables",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F2TGEnmjwj5mLHZyX59C0iP%2Fc2e8d40b0d5061be4df27e17467d40b6%2FECLIPSE.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$320",
+                    "discount": "Save 10%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "4",
+                    "title": "Stella Table Set | 2-Unit Media & 2-Unit Coffee Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F328HmDC4mq5aM6Ky4Pyh00%2F037ef2cb4db17832135b16c6c2460c84%2Ftinywow_20_28385292.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$505",
+                    "discount": "Save 15%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "5",
+                    "title": "Stella Table Set | 2-Unit Media & 1 Side Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F6qwGgCbk0GmBPc3pfu1Cn7%2Fe294d3eb291b05c27e79c85937ff5625%2Ftinywow_21_28385302.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$465",
+                    "discount": "Save 10%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "6",
+                    "title": "Stella Table Set | 3-Unit Media & 2-Unit Coffee Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F6QcIVKkSlArOc43ubTgnIN%2F9f3aeea82584c751658309f436b2c3e3%2Ftinywow_22_28385308.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$715",
+                    "discount": "Save 20%",
+                    "Customize": "Customize"
+                },
+                {
+                    "id": "7",
+                    "title": "Stella Table Set | 3-Unit Media & 1 Side Table",
+                    "image": "https://www.cozey.ca/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fz0vszzs4am30%2F60if9Z0ML9DjzMPjZ2nTdp%2F1b8c56951a094d333976e0376ed307f4%2Ftinywow_23_28385315.webp%3Ffm%3Dwebp&w=2048&q=100",
+                    "price": "$580",
+                    "discount": "Save 15%",
+                    "Customize": "Customize"
+                }
+            ]
+        }
+
+    ]
+}
